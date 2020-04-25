@@ -1,5 +1,6 @@
 /**View Problem
-https://practiceit.cs.washington.edu/problem/view/bjp4/chapter9/e11-FilteredAccount*/
+https://practiceit.cs.washington.edu/problem/view/bjp4/chapter9/e11-FilteredAccount
+*/
 
 public class FilteredAccount extends Account{
      private int total = 0;
